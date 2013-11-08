@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_multi_seller'
   s.version     = '2.0.1'
-  s.summary     = 'TODO: This spre extension is used to create multiple seller with there seperate admin'
-  s.description = 'TODO: This spre extension is used to create multiple seller with there seperate admin'
+  s.summary     = 'A multi-seller Spree Ecommerce extension'
+  s.description = 'This spre extension is used to create multiple seller with their respective admin'
   s.required_ruby_version = '>= 1.9.3'
 
   s.author    = 'Vishal Zambre'
